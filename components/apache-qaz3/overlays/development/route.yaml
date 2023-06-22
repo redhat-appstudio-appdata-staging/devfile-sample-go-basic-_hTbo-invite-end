@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: apache-qaz3
     app.kubernetes.io/part-of: devfile-sample-go-basic
-  name: apache-qaz3efte
+  name: apache-qaz3iio0
 spec:
   port:
     targetPort: 8080
