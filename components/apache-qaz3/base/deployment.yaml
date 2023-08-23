@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: apache-qaz3
     spec:
       containers:
-      - image: image
+      - image: quay.io/redhat-user-workloads-stage/sde-rcook-tenant/devfile-sample-go-basic/apache-qaz3@sha256:12f10f654e8585183903904d45bab3254670b1e6073aa7c98f5ac911fed28479
         imagePullPolicy: Always
         name: container-image
         ports:
